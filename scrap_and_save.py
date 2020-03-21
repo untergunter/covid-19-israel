@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import json
 
-
+### text
 def scrap_the_site():
     """
     this function is scraping the israel health publication site
